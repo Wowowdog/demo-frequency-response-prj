@@ -12,6 +12,6 @@ This is to replace spectrometry device with low-cost MCU/dev. board during pruct
 ## test flow design
 ![alt text](https://github.com/Wowowdog/demo-frequency-response-prj/blob/master/png/ctl1.png?raw=true)
 
-## image snippet
-![alt text](https://github.com/Wowowdog/demo-piezo-electric-prj/blob/master/png/mag1.png?raw=true)
+## output snippet
+![alt text](https://github.com/Wowowdog/demo-frequency-response-prj/blob/master/png/mag1.png?raw=true)
 
